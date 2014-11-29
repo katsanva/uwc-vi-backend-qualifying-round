@@ -1,0 +1,25 @@
+{
+  "name": "lafrance-admin",
+  "version": "0.0.0",
+  "main": "./public/stylesheets/style.css",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "katsanva <this.is.ftm@gmail.com>"
+  ],
+  "license": "Commercial",
+  "homepage": "-",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "*",
+    "jquery.cookie": "~1.4.1"
+  }
+}

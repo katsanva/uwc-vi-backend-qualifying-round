@@ -1,0 +1,26 @@
+{
+  "name": "uwc-vi-backend-qualifying-round",
+  "version": "1.0.0",
+  "description": "Test application for UWC qualifying round",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "katsanva <this.is.ftm@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "body-parser": "^1.9.0",
+    "cookie-parser": "^1.3.3",
+    "express": "^4.9.5",
+    "mc": "^1.0.6",
+    "path": "^0.4.9",
+    "request": "^2.44.0",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "bower": "*"
+  }
+}
